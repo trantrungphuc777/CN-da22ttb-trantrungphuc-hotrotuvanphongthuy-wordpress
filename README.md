@@ -56,68 +56,7 @@
 
 # 🎯 GIỚI THIỆU TỔNG QUAN
 
-**AnTrạchHub** là nền tảng tư vấn phong thủy – kiến trúc được xây dựng theo mô hình “Website tích hợp đa chức năng”, với hai mục tiêu chính:
-
-1. **Tự động hóa hệ thống tra cứu – tư vấn phong thủy cổ truyền**  
-2. **Kết hợp thương mại điện tử để kinh doanh pháp phẩm Kim Cang Thừa**
-
-Hệ thống được xây dựng dựa trên các trường phái phong thủy kinh điển như:
-
-- Bát Trạch Minh Cảnh  
-- Dương Trạch Tam Yếu  
-- Huyền Không Phi Tinh  
-- Thiên Can – Địa Chi  
-- Ngũ Hành – Nạp Âm  
-- Lỗ Ban – Dương Trạch & Âm Trạch  
-- Loan Đầu – Hình Thế  
-- Tứ Trụ Bát Tự 
-
-Mọi thuật toán phong thủy được triển khai bằng **PHP + JavaScript**, đóng gói dưới dạng **plugin WordPress** giúp dễ dàng mở rộng, bảo trì và tích hợp vào bất kỳ website nào.
-
----
-
-# 🧭 PHẠM VI & MỤC TIÊU HỆ THỐNG
-
-## 🎯 **Mục tiêu chính**
-
-- Phát triển website phong thủy toàn diện, có khả năng:
-  - Tính toán và phân tích phong thủy một cách tự động  
-  - Hiển thị kết quả theo dạng luận giải chi tiết  
-  - Hỗ trợ người dùng lựa chọn hướng nhà, hướng bàn thờ, tuổi xây dựng…  
-  - Sử dụng thước Lỗ Ban online trực quan  
-  - Xem lịch âm – dương theo Can Chi  
-  - Dự toán chi phí xây dựng nhà  
-
-- Tích hợp hệ thống bán hàng:
-  - WooCommerce làm backend thương mại điện tử
-  - Sản phẩm: pháp khí – pháp phẩm Kim Cang Thừa
-  - Gợi ý sản phẩm phù hợp theo mệnh/hướng/tuổi  
-
-## 🎯 **Phạm vi đề tài**
-
-Hệ thống gồm hai nhóm chính:
-
-### **1. Nhóm chức năng phong thủy**
-Gồm:
-
-- Xem tuổi xây dựng  
-- Xem hướng nhà tốt  
-- Xem hướng nhà hợp tuổi  
-- Xem hướng đặt bàn thờ theo tuổi  
-- Tra cứu thước Lỗ Ban   
-- Xem lịch âm dương (Can Chi – giờ hoàng đạo – hắc đạo)  
-- Đặt lịch tư vấn phong thủythủy
-
-### **2. Nhóm chức năng thương mại điện tử**
-- Danh mục pháp phẩm  
-- Giỏ hàng – thanh toán  
-- Quản lý đơn hàng, kho hàng  
-
----
-
-# 🔥 TỔNG QUAN CHỨC NĂNG
-
-Dưới đây là danh sách đầy đủ **tất cả chức năng chính thức** của Website AnTrạchHub (phiên bản hoàn chỉnh):
+**Đại Nam Vạn Bảo** là nền tảng tư vấn phong thủy – kiến trúc được xây dựng theo mô hình “Website tích hợp đa chức năng”, với hai mục tiêu chíBảo (phiên bản hoàn chỉnh):
 
 | Nhóm chức năng | Tên chức năng | Mô tả |
 |----------------|---------------|-------|
