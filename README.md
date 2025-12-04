@@ -104,9 +104,6 @@ Dựa vào 4 yếu tố:
 "gioi_tinh": "Nam"
 }
 
-markdown
-Sao chép mã
-
 ### 📤 Output
 
 - Tam tai: phạm / không phạm  
@@ -155,8 +152,6 @@ Chức năng này **có nhập hướng nhà** để hệ thống:
 
 nam_sinh + giới tính + hướng nhà
 
-yaml
-Sao chép mã
 
 ### Output
 
