@@ -67,7 +67,6 @@
 | | Tra cứu thước Lỗ Ban | Hỗ trợ kéo thước + nhập số đo → tra cung tốt/xấu |
 | | Xem lịch âm dương | Ngày âm/dương + Can Chi + giờ hoàng đạo/hắc đạo |
 | **Ecommerce** | Danh mục pháp phẩm | Xem sản phẩm Kim Cang Thừa |
-| | Gợi ý pháp khí | Dựa vào mệnh/ngày sinh/hướng nhà |
 | | Giỏ hàng | WooCommerce |
 | | Thanh toán | WooCommerce checkout |
 
