@@ -70,7 +70,7 @@ Hệ thống được xây dựng dựa trên các trường phái phong thủy 
 - Ngũ Hành – Nạp Âm  
 - Lỗ Ban – Dương Trạch & Âm Trạch  
 - Loan Đầu – Hình Thế  
-- Tứ Trụ Bát Tự (ứng dụng một phần)  
+- Tứ Trụ Bát Tự 
 
 Mọi thuật toán phong thủy được triển khai bằng **PHP + JavaScript**, đóng gói dưới dạng **plugin WordPress** giúp dễ dàng mở rộng, bảo trì và tích hợp vào bất kỳ website nào.
 
@@ -104,14 +104,13 @@ Gồm:
 - Xem hướng nhà tốt  
 - Xem hướng nhà hợp tuổi  
 - Xem hướng đặt bàn thờ theo tuổi  
-- Tra cứu thước Lỗ Ban  
-- Dự toán xây nhà  
+- Tra cứu thước Lỗ Ban   
 - Xem lịch âm dương (Can Chi – giờ hoàng đạo – hắc đạo)  
+- Đặt lịch tư vấn phong thủythủy
 
 ### **2. Nhóm chức năng thương mại điện tử**
 - Danh mục pháp phẩm  
 - Giỏ hàng – thanh toán  
-- Gợi ý sản phẩm hợp mệnh  
 - Quản lý đơn hàng, kho hàng  
 
 ---
@@ -127,7 +126,6 @@ Dưới đây là danh sách đầy đủ **tất cả chức năng chính thứ
 | | Xem hướng nhà hợp tuổi | Dựa vào năm sinh + giới tính → tính cung phi → so sánh hướng nhà |
 | | Xem hướng đặt bàn thờ | Dựa trên hướng nhà + cung phi → luận hướng phù hợp |
 | | Tra cứu thước Lỗ Ban | Hỗ trợ kéo thước + nhập số đo → tra cung tốt/xấu |
-| | Dự toán xây nhà | Tính chi phí dự kiến theo diện tích + vật liệu |
 | | Xem lịch âm dương | Ngày âm/dương + Can Chi + giờ hoàng đạo/hắc đạo |
 | **Ecommerce** | Danh mục pháp phẩm | Xem sản phẩm Kim Cang Thừa |
 | | Gợi ý pháp khí | Dựa vào mệnh/ngày sinh/hướng nhà |
